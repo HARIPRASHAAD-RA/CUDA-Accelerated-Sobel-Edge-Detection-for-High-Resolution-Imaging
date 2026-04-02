@@ -1,7 +1,7 @@
 
-# CUDA-Accelerated-Sobel-Edge-Detection-for-High-Resolution-Imaging
-# CUDA-Accelerated Image Processing Pipeline
-### Capstone Project: CUDA at Scale for the Enterprise
+# A Sobel Operator GPU Implementation
+# CUDA-Accelerated Operator GPU Implementation
+### Capstone Project: A Sobel Operator GPU Implementation
 
 ## Project Description
 This project implements a high-performance Sobel Edge Detection filter using native CUDA kernels. The goal is to demonstrate the throughput advantages of GPU acceleration when processing large-scale image datasets (such as the USC SIPI database). By offloading the pixel-wise convolution operations to the GPU, we achieve a significant speedup compared to traditional CPU-based sequential processing.
